@@ -117,3 +117,71 @@ header {
     font-weight: 700;
     font-size: 1.5rem;
 }
+
+
+/* your spot */
+.your-spot .up{
+    text-align: center;
+}
+
+.down .crd-con{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1380px;
+    margin: 40px auto;
+  
+}
+.up h1{
+    font-size: 3.5rem;
+  
+}
+
+.crd{
+    border: 1px solid black;
+    padding: 38px;
+    border-radius: 12px;
+    height: 444px;
+    width: 350px;
+    font-size: 1.3rem;
+}
+
+.crd li{
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+
+.b{
+    text-align: center;
+}
+.one{
+    margin: 30px auto;
+    padding: 10px 100px;
+    border-radius: 12px;
+    text-align: center;
+    border: 2px solid #1D4ED8;
+    color: #1D4ED8;
+    font-weight: 700;
+    font-size:1.2rem;
+}
+.two{
+    margin: 30px auto;
+    padding: 10px 120px;
+    border-radius: 12px;
+    text-align: center;
+    border: 2px solid #1D4ED8;
+    color: #ffffff;
+    background-color: #1D4ED8;
+    font-weight: 700;
+    font-size:1.2rem;
+}
+.three{
+    margin: 30px auto;
+    padding: 10px 100px;
+    border-radius: 12px;
+    text-align: center;
+    border: 2px solid #000000;
+    color: #000000;
+    font-weight: 700;
+    font-size:1.2rem;
+}
